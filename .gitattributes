@@ -1,0 +1,6 @@
+data/trees/cog_global_2022-01-25_tree.newick filter=lfs diff=lfs merge=lfs -text
+data/metadata/cog_england_2022-01-16_metadata.csv filter=lfs diff=lfs merge=lfs -text
+data/trees/cog_global_2021-02-22_tree.newick filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+data/trees/cog_global_2021-06-01_tree.newick filter=lfs diff=lfs merge=lfs -text
+data/trees/cog_global_2021-06-20_tree.newick filter=lfs diff=lfs merge=lfs -text
